@@ -27,12 +27,12 @@ const siteProps = {
   name: "Lakshay Dhiman",
   title: "Full Stack Web Developer And Competitive Programmer",
   email: "dhimanlakshay.02@gmail.com",
-  gitHub: "https://github.com/LakshayDhiman023",
-  instagram: "https://www.instagram.com/lakshay_dhiman2/",
-  linkedIn: "https://linkedin.com/in/lakshaydhiman023/",
+  gitHub: "LakshayDhiman023",
+  instagram: "lakshay_dhiman2/",
+  linkedIn: "lakshaydhiman023/",
   medium: "",
-  twitter: "https://x.com/AckermanLevi023",
-  youTube: "Code",
+  twitter: "AckermanLevi023",
+  // youTube: "Code",
 };
 
 const primaryColor = "#4E567E";
